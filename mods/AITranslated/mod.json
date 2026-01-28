@@ -1,0 +1,15 @@
+{
+	"name" : "AI translated",
+	"description" : "AI translated by Google Translate",
+	"version" : "1.0",
+	"author" : "Google Translate",
+	"contact" : "",
+	"language" : "serbian",
+	"modType" : "Translation",
+	"translations" : [
+		"config/vcmi-serbian-ai/campaigns.json",
+		"config/vcmi-serbian-ai/game.json",
+		"config/vcmi-serbian-ai/maps.json",
+		"config/vcmi-serbian-ai/chronicles.json"
+	]
+}

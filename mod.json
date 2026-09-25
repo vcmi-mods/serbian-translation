@@ -6,21 +6,21 @@
 	"contact" : "",
 	"language" : "serbian",
 	"modType" : "Translation",
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.7.0"
 	},
-	"changelog" : 
-	{ 
-		"1.0.0" : [ "Initial release" ]
+	"changelog" : {
+		"1.0.0" : [
+			"Initial release"
+		]
 	},
 	"german" : {
 		"name" : "Serbische Übersetzung",
-		"description" : "Serbische Übersetzung von Heroes of Might and Magic III: Complete Edition"	
+		"description" : "Serbische Übersetzung von Heroes of Might and Magic III: Complete Edition"
 	},
 	"serbian" : {
 		"name" : "Српски превод",
-		"description" : "Српски превод игре Heroes of Might and Magic III: Complete Edition"	
+		"description" : "Српски превод игре Heroes of Might and Magic III: Complete Edition"
 	},
 	"translations" : [
 		"config/vcmi-serbian/game.json",
